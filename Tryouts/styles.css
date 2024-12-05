@@ -1,0 +1,36 @@
+.container{
+    flex-direction:row;
+    background-color: black;
+    padding: 12px;
+    margin: 12px;
+    border: 12px;
+    display: flex;
+}
+
+.item {
+  background-color: aliceblue;  
+  border: 20px;
+  height: 200px;
+  width: auto;
+  flex: 1;
+  margin: 4px;
+  text-align: center;
+}
+
+.Doppelflex{
+flex-direction: row;
+background-color: aqua;
+margin: auto;
+padding: 200;
+}
+
+.item2{
+    background-color: azure;
+    padding: 200;
+    text-align: center;
+    margin-bottom: 20px;
+    border-color: black;
+    border-radius: 20px;
+    border-style:solid;
+    
+}
